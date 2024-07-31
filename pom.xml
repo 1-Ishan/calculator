@@ -23,6 +23,7 @@
   <build>
         <resources>
           <resource>
+	      <url>http://localhost:8081/repository/maven-snapshots/<url>
               <filtering>true</filtering>
               <directory>src/main/resources</directory>
           </resource>
